@@ -31,3 +31,8 @@ Of course, we would appreciate it if you switched to `https://dracor.org/api/v1`
 We plan to keep the API version 0.x available for at least a year (i.e., until the end of 2024). After this period, we may phase it out so as not to have to maintain multiple versions of the API indefinitely.
 
 Please also see our blogpost, [»Streamlining the DraCor API«](https://weltliteratur.net/streamlining-the-dracor-api/).
+
+## How Should I Cite DraCor in My Research?  
+If you would like to cite DraCor in general, please use the following reference:
+Fischer, Frank, et al. (2019). Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama. In Proceedings of DH2019: "Complexities", Utrecht University, doi:[10.5281/zenodo.4284002](https://doi.org/10.5281/zenodo.4284002).  
+If you use individual corpora for your research, you may cite them via Git commits for better reproducibility. For details, see Börner, Ingo; Trilcke, Peer: D7.3 On Versioning Living and Programmable Corpora. (Executable) Report and Prototypes for Reproducible Research (v1.0.0). Zenodo. doi:[10.5281/zenodo.11081934](https://doi.org/10.5281/zenodo.11081934), pp. 6–12.  
