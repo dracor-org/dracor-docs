@@ -4,7 +4,11 @@ This continuously updated bibliography aims to compile all research publications
 
 ## 2026
 
+* Sören Barkey: Glaube, Liebe, Zukunftsangst – und Zimtkuchen. Ergebnisse einer szenenbasierten Analyse weiblicher Dialoge in GerDraCor mit dem Bechdel-Wallace-Test. \[Poster contribution.\] In: DHd2026: »Nicht nur Text, nicht nur Daten«. 23–27 February 2026. Book of Abstracts. University of Vienna, pp. 515–516. ([doi:10.5281/zenodo.18702903](https://doi.org/10.5281/zenodo.18702903))
+* Ingo Börner, Peer Trilcke, Henny Sluyter-Gäthje, Daniil Skorinkin, Frank Fischer, Carsten Milling: How to Chat with the History of European Drama. Connecting DraCor with a Large Language Model Using an MCP Server. \[Poster contribution.\] In: DHd2026: »Nicht nur Text, nicht nur Daten«. 23–27 February 2026. Book of Abstracts. University of Vienna, pp. 534–536. ([doi:10.5281/zenodo.18702881](https://doi.org/10.5281/zenodo.18702881))
+* Patrick Daniel Brookshire: Namen in Dramen: Es klingt so, als wurden Berufe häufiger. \[Poster contribution.\] In: DHd2026: »Nicht nur Text, nicht nur Daten«. 23–27 February 2026. Book of Abstracts. University of Vienna, pp. 575–577. ([doi:10.5281/zenodo.18702939](https://doi.org/10.5281/zenodo.18702939))
 * Thiago Dumont Oliveira: The French Drama Revolution: Political Economy and Literary Production, 1700–1900. University of Tartu, 31 January 2026. ([doi:10.48550/arXiv.2602.00588](https://doi.org/10.48550/arXiv.2602.00588))
+* Frank Fischer, Peer Trilcke, Mark Schwindt, Carsten Milling, Henny Sluyter-Gäthje, Ivan Pozdniakov, Ingo Börner, Julia Jennifer Beine, Daniil Skorinkin, Lisa Poggel, Luca Giovannini: Ganz viel Drama auf einen Blick: Der »Distant-Reading Showcase«, zehn Jahre danach. \[Poster contribution.\] In: DHd2026: »Nicht nur Text, nicht nur Daten«. 23–27 February 2026. Book of Abstracts. University of Vienna, pp. 512–514. ([doi:10.5281/zenodo.18702913](https://doi.org/10.5281/zenodo.18702913))
 
 ## 2025
 
