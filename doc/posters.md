@@ -4,7 +4,7 @@ Our award-winning conference posters are freely available for download in hi-res
 
 #### Distant-Reading Showcase: 465 German-Language Dramas at a Glance (DHd2016, Leipzig)
 
-![poster Distant-Reading Showcase](img/merch/distant-reading-showcase-poster-dhd2016-leipzig-900px.jpg)
+![poster Distant-Reading Showcase 2016](img/merch/distant-reading-showcase-poster-dhd2016-leipzig-900px.jpg)
 
 _by Frank Fischer, Christopher Kittel, Peer Trilcke, Mathias Göbel, Andreas Vogel, Hanna-Lena Meiners, Dario Kampkaspar_
 
@@ -39,12 +39,23 @@ _by Frank Fischer, Anika Schultz, Christopher Kittel, Elisa Beshero-Bondar, Stef
 
 #### Besuch im »Marstheater« – Eine Netzwerkmodellierung von Karl Kraus’ Riesendrama »Die letzten Tage der Menschheit« (DHd2020, Paderborn)
 
-![poster text](img/merch/Fischer_et_al_-_Besuch_im_Marstheater_DHd2020.png)
+![poster Besuch im Marstheater](img/merch/Fischer_et_al_-_Besuch_im_Marstheater_DHd2020.png)
 
 _by Frank Fischer, Anna Busch, Angelika Hechtl, Peer Trilcke, Andreas Vogel_
 
 - [Best Poster Award](https://dig-hum.de/dhd-awards) 🏆
 - [figshare](https://doi.org/10.6084/m9.figshare.11917902) (poster)
-- [Twitter thread](https://twitter.com/umblaetterer/status/1235556225128886277)
+- [Twitter thread](https://web.archive.org/web/20200305140458/https://twitter.com/umblaetterer/status/1235556225128886277) (archived)
 - [zenodo](https://zenodo.org/record/3666690/preview/2020_DHd_BookOfAbstracts-web.pdf#page=280) (abstract)
 - [weltliteratur.net](https://weltliteratur.net/theatre-on-mars/) (blog post)
+
+---
+
+#### Distant-Reading Showcase 2026: 750 German-Language Dramas at a Glance (DHd2026, Vienna)
+
+![poster Distant-Reading Showcase 2026](img/merch/distant-reading-showcase-poster-dhd2026-vienna.jpg)
+
+_by Frank Fischer, Lisa Poggel, Mark Schwindt, Carsten Milling, Henny Sluyter-Gäthje, Ingo Börner, Peer Trilcke, Daniil Skorinkin, Luca Giovannini, Julia Jennifer Beine, Ivan Pozdniakov_
+
+- [figshare](https://doi.org/10.6084/m9.figshare.31113820) (poster)
+- [zenodo](https://doi.org/10.5281/zenodo.18702913) (abstract)
