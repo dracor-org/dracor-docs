@@ -15,17 +15,21 @@
 ## 2024
 * van der Deijl, Lucas: Presenting DutchDraCor: A new KB dataset for computational approaches to early modern Dutch theatre. In: KB Lab, 18 November 2024. [URL](https://lab.kb.nl/about-us/blog/presenting-dutchdracor-new-kb-dataset-computational-approaches-early-modern-dutch) (last access on 8 January 2026).
 * Egger, Pepe: Digital Humanities. Einen Roman lesen – oder 3000 lesen lassen? In: Tagesspiegel, 4 October 2024. [URL](https://www.tagesspiegel.de/themenspeziale/bildungundforschung/einen-roman-lesen-oder-gleich-3000-lesen-lassen-12461174.html) (last access on 1 December 2025).
+* Weitz, Ann; Nierstenhöfer, Emanuel: MeThAL: Ein Blick hinter die Kulissen der digitalen Theateranalyse im Elsass. In: Digital Humanities Cologne, 18 July 2024. [URL](https://dhc.hypotheses.org/2958) (last access on 23 March 2026).
 
 ## 2023
 * Fischer, Frank; Milling, Carsten; Schwindt, Mark: Streamlining the DraCor API. In: weltliteratur.net, 1 December 2023. [URL](https://weltliteratur.net/streamlining-the-dracor-api/) (last access on 1 December 2025).
 * Huber, Carina: Bochumer Forschende erhalten Rahtz-Preis 2022. In: Ruhr-Universität Bochum. RUB News, 13 February 2023. [URL](https://news.rub.de/leute/2023-03-13-philologie-bochumer-forschende-erhalten-rahtz-preis-2022) (last access on 1 December 2025).
 
 ## 2022
-* Huber, Carina: Wenn Computer antike Texte lesen. In: Ruhr-Universität Bochum. RUB News. Mehr als dicke Bücher, 10 March 2022. [URL](https://news.rub.de/wissenschaft/2022-03-10-digital-humanities-wenn-computer-antike-texte-lesen) (last access on 8 January 2026).
+* Trapp, Markus: Dramen-Corpus CalDraCor jetzt mit 201 Dramen Calderóns. In: Romanistik-Blog, 16 March 2022. [URL](https://blog.fid-romanistik.de/2022/03/16/dramen-corpus-caldracor-jetzt-mit-201-dramen-calderons/) (last access on 23 March 2026).
 * Çakir, Dîlan Canan; Fischer, Frank: Wie ein Einakter Kotzebue aus der sibirischen Verbannung rettete. In: Kotzebue International, 16 April 2022. [doi:10.58079/qn2r](https://doi.org/10.58079/qn2r).
+* Huber, Carina: Wenn Computer antike Texte lesen. In: Ruhr-Universität Bochum. RUB News. Mehr als dicke Bücher, 10 March 2022. [URL](https://news.rub.de/wissenschaft/2022-03-10-digital-humanities-wenn-computer-antike-texte-lesen) (last access on 8 January 2026).
 
 ## 2021
 * Fischer, Frank; Milling, Carsten; Schwindt, Mark: DraCor Summer Update (August 2021). In: weltliteratur.net, 5 August 2021. [URL](https://weltliteratur.net/dracor-summer-update-2021/) (last access on 1 December 2025).
 
 ## 2020
+* Trapp, Markus: Quantitative Untersuchung zu Calderón de la Barca. In: Romanistik-Blog, 11 December 2020. [URL](https://blog.fid-romanistik.de/2020/12/11/quantitative-untersuchung-zu-calderon-de-la-barca/) (last access on 23 March 2026).
 * Fischer, Frank: Archived Twitter thread announcing the release of the redesigned DraCor website. In: twitter.com, 2 December 2020. [URL](https://web.archive.org/web/20210520063659/https://twitter.com/umblaetterer/status/1334080571979542528) (last access on 8 January 2026).
+* Hug, Marius: Über bereichernde Anreicherung. Wechselseitige Annotation von Dramen als Subkorpus der Digitalen Bibliothek zwischen Zeno.org, TGRep, GerDraCor und DTA. In: Im Zentrum Sprache. Untersuchungen zur deutschen Sprache in Geschichte und Gegenwart, 12 June 2020. [URL](https://sprache.hypotheses.org/2234) (last access on 23 March 2026).
