@@ -1,12 +1,16 @@
 # DraCor in Science Communication
 
+## 2026
+* Freie Universität Berlin (ed.): Best Poster Award auf der DHd2026-Konferenz in Wien. In: Freie Universität Berlin, Institute of Greek and Latin Languages, 3 March 2026. [URL](https://www.geisteswissenschaften.fu-berlin.de/we02/institut/news/2026_02_27-Poster-Award-Fischer.html) (last access on 23 March 2026).
+
 ## 2025
 * Beine, Julia Jennifer; Fischer, Frank; Trilcke, Peer: RaDiHum20 spricht mit Frank Fischer, Peer Trilcke und Julia Jennifer Beine von DraCor. In: Geiger, Jonathan; Pippich, Waltraud von; Schumacher, Mareike; Seltmann, Melanie (eds.): RaDiHum20-Podcast. Das Radio für Digital Humanities (2025, 9/3), 20 October 2025. [URL](https://radihum20.de/radihum-spricht-mit-frank-fischer-peer-trilcke-und-julia-jennifer-beine-vom-dracor-projekt/) (last access on 1 December 2025).
-* Relatii Publice, Lucian Blaga University of Sibiu (ed.): ULBS face parte din rețeaua europeană DraCor (Dramatic Corpus). In: Lucian Blaga University of Sibiu. Știrile [News], 12 September 2025. [URL](https://www.ulbsibiu.ro/news/ulbs-face-parte-din-reteaua-europeana-dracor-dramatic-corpus/) (last access on 1 December 2025).
+* Relatii Publice, Lucian Blaga University of Sibiu (ed.): ULBS face parte din rețeaua europeană DraCor (Dramatic Corpus). In: Lucian Blaga University of Sibiu. Știrile \[News\], 12 September 2025. [URL](https://www.ulbsibiu.ro/news/ulbs-face-parte-din-reteaua-europeana-dracor-dramatic-corpus/) (last access on 1 December 2025).
 * Scholz, Jana: Literatur trifft Algorithmus – Der DraCor Summit setzt neue Impulse für die digitale Dramenforschung. In: Universität Potsdam. Medieninformation 77 (2025), 25 August 2025. [URL](https://www.uni-potsdam.de/en/headlines-and-featured-stories/detail/2025-08-25-literatur-trifft-algorithmus-der-dracor-summit-setzt-neue-impulse) (last access on 1 December 2025).
-* Fischer, Frank; Milling, Carsten; Börner, Ingo; Beine, Julia Jennifer; Trilcke, Peer: DraCor Platform Update (July 2025), 14.07.2025.In: weltliteratur.net. [URL](https://weltliteratur.net/dracor-platform-update-2025/) (last access on 1 December 2025).
-* Ossenkopp, Jörg; Fischer, Frank: Was die Geisteswissenschaft von der Informatik lernen kann – und umgekehrt! In: golem.de. Chefs von Devs #67. [Interview series.], 10 April 2025. [URL](https://archive.newsletter2go.com/?n2g=k78op17b-54vogfoy-s7) (last access on 1 December 2025).
+* Fischer, Frank; Milling, Carsten; Börner, Ingo; Beine, Julia Jennifer; Trilcke, Peer: DraCor Platform Update (July 2025), 14.07.2025. In: weltliteratur.net. [URL](https://weltliteratur.net/dracor-platform-update-2025/) (last access on 1 December 2025).
+* Ossenkopp, Jörg; Fischer, Frank: Was die Geisteswissenschaft von der Informatik lernen kann – und umgekehrt! In: golem.de. Chefs von Devs #67. \[Interview series.\] 10 April 2025. [URL](https://archive.newsletter2go.com/?n2g=k78op17b-54vogfoy-s7) (last access on 1 December 2025).
 * Schönberger, Lea: Interview: Digital Humanities – Gast: Julia Jennifer Beine. In: Informatik für die moderne Hausfrau. Folge 39, 18 March 2025. [URL](https://informatik-hausfrau.de/2025/03/18/folge-39-digital-humanities/) (last access on 1 December 2025).
+* The data of drama. \[Interview with Ingo Börner.\] In: New standards: Conversations on research data and software management. A book by NFDIxCS. German Informatics Society, February 2025. [doi:10.18420/nfdixcs_2025](https://doi.org/10.18420/nfdixcs_2025).
 
 ## 2024
 * van der Deijl, Lucas: Presenting DutchDraCor: A new KB dataset for computational approaches to early modern Dutch theatre. In: KB Lab, 18 November 2024. [URL](https://lab.kb.nl/about-us/blog/presenting-dutchdracor-new-kb-dataset-computational-approaches-early-modern-dutch) (last access on 8 January 2026).
