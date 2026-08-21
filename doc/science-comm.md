@@ -1,6 +1,7 @@
 # DraCor in Science Communication
 
 ## 2026
+* Eder, Maciej: Computational Stylistics in Action: From Research Infrastructures to DIY Tools. (Antonio Zampolli Prize Keynote.) \[Highlighting the role of DraCor for stylometric studies.\] In: DH2026: »Engagement«. 29 July 2026. Daejeon, South Korea. [Keynote at YouTube](https://www.youtube.com/watch?v=HOJttPGWX_k) (last access on 21 August 2026). [Slides](https://computationalstylistics.github.io/presentations/zampolli/) (last access on 21 August 2026).
 * Flüh, Marie; Schumacher, Mareike: Günderrode digital: Neue Perspektiven durch die Digital Humanities. \[About their DraCor-based paper [»Macht versus Emotion«](https://doi.org/10.1007/978-3-662-67902-9_9), published in 2024.\] Hosted by Anina Karch and Selina Schauer. In: Kannst du mir folgen? Der Interviewpodcast über das literaturwissenschaftliche Interpretieren, 2 July 2026. [URL](https://www.kannstdumirfolgen.de/episoden/episode13/) (last access on 14 July 2026).
 * Burnard, Lou: A Productivity Boost. In: Foxglove: A British Perspective on the Digital Humanities in France. 28 March 2026. [doi:10.58079/15ysy](https://doi.org/10.58079/15ysy).
 * Freie Universität Berlin (ed.): Best Poster Award auf der DHd2026-Konferenz in Wien. In: Freie Universität Berlin, Institute of Greek and Latin Languages, 3 March 2026. [URL](https://www.geisteswissenschaften.fu-berlin.de/we02/institut/news/2026_02_27-Poster-Award-Fischer.html) (last access on 23 March 2026).
