@@ -18,6 +18,7 @@
 ## 2024
 * van der Deijl, Lucas: Presenting DutchDraCor: A new KB dataset for computational approaches to early modern Dutch theatre. In: KB Lab, 18 November 2024. [URL](https://lab.kb.nl/about-us/blog/presenting-dutchdracor-new-kb-dataset-computational-approaches-early-modern-dutch) (last access on 8 January 2026).
 * Egger, Pepe: Digital Humanities. Einen Roman lesen – oder 3000 lesen lassen? In: Tagesspiegel, 4 October 2024. [URL](https://www.tagesspiegel.de/themenspeziale/bildungundforschung/einen-roman-lesen-oder-gleich-3000-lesen-lassen-12461174.html) (last access on 1 December 2025).
+* Visconti, Amanda; Dombrowski, Quinn; Berger, Claudia: \#DHmakes: Baking Craft into DH Discourse. \[Featuring a photo of the DraCor logo reinterpreted using yarn and plastic mesh, see figure 25.\] In: Korean Journal of Digital Humanities. Vol. 1, no. 1 (May 2024), pp. 73–108. ([doi:10.23287/KJDH.2024.1.1.5](https://doi.org/10.23287/KJDH.2024.1.1.5))
 * Weitz, Ann; Nierstenhöfer, Emanuel: MeThAL: Ein Blick hinter die Kulissen der digitalen Theateranalyse im Elsass. In: Digital Humanities Cologne, 18 July 2024. [URL](https://dhc.hypotheses.org/2958) (last access on 23 March 2026).
 
 ## 2023
