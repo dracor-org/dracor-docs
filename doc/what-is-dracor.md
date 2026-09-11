@@ -16,7 +16,7 @@
 
 **Ways to interact.** There are various communication channels for the DraCor Community which you may check out [here](https://dev.dracor.org/doc/get-in-touch).
 
-DraCor is run jointly at the Freie Universität Berlin and the University of Potsdam. For a full list of the researchers involved, please see our [Credits page](credits).
+DraCor is run jointly at the Freie Universität Berlin and the University of Potsdam. For a full list of the people involved, please see our [Credits page](credits).
 
 <div id="eu-funding-note">
 
