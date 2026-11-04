@@ -4,12 +4,12 @@
 * Co-editors: [Peer Trilcke](https://www.uni-potsdam.de/de/lit-19-jhd/peertrilcke) (University of Potsdam), [Julia Jennifer Beine](https://www.klassphil.uni-wuerzburg.de/personal/beine/) (University of Würzburg), [Daniil Skorinkin](https://www.uni-potsdam.de/de/digital-humanities/daniil-skorinkin) (University of Potsdam)
 * Technical lead: Carsten Milling (University of Potsdam)
 * Technical co-lead: [Ingo Börner](https://www.uni-potsdam.de/en/lit-19-jhd/team/ingo-boerner) (University of Potsdam)
-* Art director: [Mark Schwindt](https://www.temporal-communities.de/people/schwindt/index.html) (Freie Universität Berlin)
+* Art director: [Mark Schwindt](https://www.markschwindt.com/)
 
 ## Tools and side projects
 ### API wrappers
 * for Python ([PyDraCor](https://pypi.org/project/pydracor/)): [Henny Sluyter-Gäthje](https://www.uni-potsdam.de/de/lit-19-jhd/team/henny-sluyter-gaethje) (University of Potsdam)
-* for R ([rdracor](https://github.com/dracor-org/rdracor)): [Ivan Pozdniakov](https://pozdniakov.github.io/) (formerly HSE, Moscow)
+* for R ([rdracor](https://github.com/dracor-org/rdracor)): [Ivan Pozdniakov](https://pozdniakov.github.io/)
 
 ### [Easy Linavis (ezlinavis)](https://ezlinavis.dracor.org/)
 * Developers: Carsten Milling, Frank Fischer
