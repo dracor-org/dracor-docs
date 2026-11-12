@@ -7,10 +7,7 @@ on:
 
 jobs:
   staging:
-    uses: dracor-org/dracor-docs/.github/workflows/deployment.yml@main
+    uses: ./.github/workflows/deployment.yml
     with:
+      environment: staging
       host: staging.dracor.org
-      deploy-path: /var/www/html/doc
-    secrets:
-      deploy-key: ${{ secrets.DRACOR_ORG_DEPLOY_KEY }}
-      deploy-user: ${{ secrets.DRACOR_ORG_DEPLOY_USER }}
