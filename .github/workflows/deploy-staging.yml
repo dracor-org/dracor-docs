@@ -8,6 +8,8 @@ on:
 jobs:
   staging:
     uses: ./.github/workflows/deployment.yml
+    # environment secrets only reach the reusable workflow this way
+    secrets: inherit
     with:
       environment: staging
       host: staging.dracor.org

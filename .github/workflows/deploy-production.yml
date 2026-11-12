@@ -8,6 +8,8 @@ on:
 jobs:
   production:
     uses: ./.github/workflows/deployment.yml
+    # environment secrets only reach the reusable workflow this way
+    secrets: inherit
     with:
       environment: production
       host: dracor.org
