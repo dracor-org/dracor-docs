@@ -1,35 +1,50 @@
 name: Deployment
 
+# Deploys doc/ with rsync over SSH. Each GitHub environment has its own
+# DEPLOY_KEY, which the server restricts to rsync into the docs directory (see
+# dracor-org-deployment), so the destination path is relative to it.
+
 on:
   workflow_call:
     inputs:
+      environment:
+        required: true
+        type: string
       host:
         required: true
         type: string
-      deploy-path:
-        required: true
-        type: string
-    secrets:
-      deploy-key:
-        required: true
-      deploy-user:
-        required: true
+
+permissions:
+  contents: read
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment: ${{ inputs.environment }}
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          fetch-tags: true
-          fetch-depth: 0
-      - uses: webfactory/ssh-agent@e83874834305fe9a4a2997156cb26c5de65a8555 # v0.10.0
-        with:
-          ssh-private-key: ${{ secrets.deploy-key }}
+          persist-credentials: false
+
+      - name: Set up SSH
+        env:
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+          DEPLOY_KNOWN_HOSTS: ${{ vars.DEPLOY_KNOWN_HOSTS }}
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          printf '%s\n' "$DEPLOY_KNOWN_HOSTS" > ~/.ssh/known_hosts
 
       - name: Deploy to ${{ inputs.host }}
+        env:
+          HOST: ${{ inputs.host }}
         run: |
           rsync -rlvz --delete \
-            -e 'ssh -o StrictHostKeyChecking=no' \
+            -e 'ssh -i ~/.ssh/deploy_key -o IdentitiesOnly=yes' \
             doc/ \
-            ${{ secrets.deploy-user }}@${{ inputs.host }}:${{ inputs.deploy-path }}/
+            "github@$HOST:/"
+
+      - name: Remove SSH key
+        if: always()
+        run: rm -f ~/.ssh/deploy_key

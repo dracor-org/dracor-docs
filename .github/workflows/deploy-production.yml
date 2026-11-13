@@ -2,15 +2,12 @@ name: Deploy to production
 
 on:
   workflow_dispatch:
-  release:
-    types: [released]
 
 jobs:
   production:
-    uses: dracor-org/dracor-docs/.github/workflows/deployment.yml@main
+    uses: ./.github/workflows/deployment.yml
+    # environment secrets only reach the reusable workflow this way
+    secrets: inherit
     with:
+      environment: production
       host: dracor.org
-      deploy-path: /var/www/html/doc
-    secrets:
-      deploy-key: ${{ secrets.DRACOR_ORG_DEPLOY_KEY }}
-      deploy-user: ${{ secrets.DRACOR_ORG_DEPLOY_USER }}
