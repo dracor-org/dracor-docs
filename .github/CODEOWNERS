@@ -1,3 +1,6 @@
-# Changes to main need the approval of a member of the core team (see the
-# ruleset "Protect main" in the repository settings).
-* @dracor-org/core
+# Changes to main need the approval of a code owner (see the ruleset
+# "Protect main" in the repository settings); org owners can bypass it.
+# The last matching line wins.
+*          @lehkost @peertrilcke
+# workflows and this file
+/.github/  @dracor-org/core
